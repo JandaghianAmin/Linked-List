@@ -9,8 +9,7 @@ class Solution:
             print(current.data,end=' ')
             current = current.next
 
-    def insert(self,head,data): 
-    #Complete this method                 
+    def insert(self,head,data):     
         new_node = Node(data)
         if head is None:
             return new_node
