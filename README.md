@@ -5,7 +5,7 @@ A linked list is a data structure used to store a collection of elements. Unlike
 
 2. Next: A reference (or pointer) to the next node in the sequence.
 
-▎Types of Linked Lists
+Types of Linked Lists:
 
 1. Singly Linked List: Each node points to the next node and the last node points to None.
 
@@ -13,6 +13,8 @@ A linked list is a data structure used to store a collection of elements. Unlike
 
 3. Circular Linked List: The last node points back to the first node, forming a circle.
 
+
+Here I had a simple implementation of Singly Linked List:
 
 ![alt text](https://github.com/JandaghianAmin/Linked-List/blob/main/1456961238-28488bfa0d-LinkedListExplanation.png)
 
